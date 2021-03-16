@@ -9,9 +9,11 @@
   }
 .ft-ass{
     background-image: url('https://w-techn.github.io/ft-assinatura/images/Fundo-com-inha-azul.svg');
-    background-position: right bottom, left top;
+    background-position:left top;
     background-repeat: no-repeat, repeat;
-    padding: 15px;
+    padding: 5px;
+    width: 800px;
+    height: 220px;
 }
 .row:after {
     content: "";
@@ -27,4 +29,42 @@
     float: left;
     width: 66.66%;
     padding: 15px;
+    color: aliceblue;
   }
+  .ft-ass .col-4 .thumb img{
+    padding-top: 20px;
+    padding-left: 10px;
+    width: 180px;
+    height: auto;
+  }
+  .col-8 .header{
+    padding-left: 45px;
+  }
+  .header h2{
+      margin-top: 7px;
+      margin-bottom: 0px;
+  }
+  .header h4{
+    margin-top: 5px;
+    
+}
+.col-8 .content{
+    padding-top: 20px;
+    padding-left: 45px;
+}
+.content p{
+    margin-top: 2px;
+    margin-bottom: 1px;
+}
+.content p .icon-tel{
+    background-image: url('https://w-techn.github.io/ft-assinatura/images/icon-telefone.svg');
+}
+.content p .icon-site{
+    background-image: url('https://w-techn.github.io/ft-assinatura/images/icon-site.svg');
+}
+.content p .icon-mail{
+    background-image: url('https://w-techn.github.io/ft-assinatura/images/icon-mail.svg');
+}
+.content p .icon-loc{
+    background-image: url('https://w-techn.github.io/ft-assinatura/images/icon-loc.svg');
+}
