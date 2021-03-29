@@ -2,7 +2,7 @@
 assinatura de e-mail para  FullTime
 
 para ultilizar esse assinatura so ultilizar o codigo abaixo
-
+[code]
 <div class="ft-ass" style="box-sizing: border-box; background-image: url('https://w-techn.github.io/ft-assinatura/images/Fundo-img.jpg'); background-position: left top; background-repeat: no-repeat,repeat; padding: 1px; width: 600px; height: 220px;">
 <div class="row" style="box-sizing: border-box; content: ''; clear: both;">
 <div class="col-4" style="box-sizing: border-box; float: left; width: 33.33%; padding: 5px;">
@@ -22,3 +22,4 @@ para ultilizar esse assinatura so ultilizar o codigo abaixo
 </div>
 </div>
 </div>
+[/code]
